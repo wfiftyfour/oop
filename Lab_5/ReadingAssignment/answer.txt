@@ -1,0 +1,1 @@
+Nếu không quản lý ngoại lệ khi gọi hàm play(), chương trình có nguy cơ bị dừng đột ngột, dẫn đến việc mất cơ hội ghi lại thông tin lỗi, tài nguyên không được giải phóng một cách hợp lý, và gây ra trải nghiệm không tốt cho người dùng. Việc sử dụng try-catch là cần thiết để duy trì sự ổn định và đảm bảo khả năng phục hồi của chương trình.
